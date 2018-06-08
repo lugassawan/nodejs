@@ -1,5 +1,12 @@
 Learning about NodeJs from concept, basic
 
+V.0.2  
+- Debugging using Dev Tool Chrome  
+- Listing all note data  
+- Add flag option for command  
+- Use regular function when arrow function doesn't work  
+- 
+
 V.0.1
 - starting project by type 'node namefile.js'
 - "require()" used to call module/file in another file
